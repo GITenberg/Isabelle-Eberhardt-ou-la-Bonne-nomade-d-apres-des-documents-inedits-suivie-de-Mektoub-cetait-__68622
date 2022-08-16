@@ -1,0 +1,51 @@
+_repo: Isabelle-Eberhardt-ou-la-Bonne-nomade-d-apres-des-documents-inedits-suivie-de-Mektoub-cetait-__68622
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Vigné d'Octon, Paul
+    aliases:
+    - Vigne d'Octon, Paul
+    - Vigné, Paul-Etienne
+    - D'Octon, Paul Vigné
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '54867'
+    url: http://www.gutenberg.org/2009/agents/54867
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_Vign%C3%A9_d'Octon
+  - agent_name: Eberhardt, Isabelle
+    aliases:
+    - Saadi, Mahmoud
+    - Saâdi, Mahmoud
+    - Ehnni, Isabelle Eberhardt
+    - Mahmoud, Si
+    birthdate: 1877
+    deathdate: 1904
+    gutenberg_agent_id: '53988'
+    url: http://www.gutenberg.org/2009/agents/53988
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Isabelle_Eberhardt
+    - https://en.wikipedia.org/wiki/Isabelle_Eberhardt
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68622'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89107614968
+pgterms:marc905: 20210508043619vigndocton
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: France :Eugène Figuière,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Algeria -- Biography'
+- !lcsh 'Eberhardt, Isabelle, 1877-1904'
+- !lcsh 'Algeria -- Biography'
+- !lcc 'DT'
+- GITenberg
+title: "Isabelle Eberhardt, ou, la Bonne nomade: d'après des documents inédits\r\n\
+  suivie de Mektoub!... (cétait écrit!...): œuvre posthume"
+url: http://www.gutenberg.org/ebooks/68622
